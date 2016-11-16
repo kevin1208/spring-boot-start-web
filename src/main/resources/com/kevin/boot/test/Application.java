@@ -11,7 +11,7 @@ public class Application {
 	
 	@RequestMapping(value="/hello")
 	public String helloworld() {
-		return "Say Hello World!";
+		return "Say Hello World git!";
 	}
 
 	public static void main(String[] args) {
